@@ -1,0 +1,2 @@
+FLASK_APP=restic_web
+FLASK_ENV=development
